@@ -27,7 +27,7 @@ git remote add upstream https://github.com/McMahonLab/LitRev
 ```
 
 ##  How to create a blog post
-Always update your fork and local copy first - pull (or Fetch+merge) from upstream and then push to origin.
+**Always update your fork and local copy first** - pull (or Fetch+merge) from upstream and then push to origin.
 
 ### Create your own post
 1. Copy the template from the `_drafts` to `_posts`.  Rename the file to be relevant to the article you are reviewing.
@@ -36,7 +36,7 @@ Example:
 cp _drafts/YYYY-MM-DD-subject.md _posts/<YYYY-MM-DD-topic>.md
 ```
 Replace `<YYYY-MM-DD-topic>` with the current date and topic (should include the journal abbreviation, first author, and year).
-Example for blog post on Sept. 10th, 2015 reviewing an article in __ISME__ with the first author __Stevens__ that was published in __2014__ the file would be called.
+Example for blog post on Sept. 10th, 2015 reviewing an article in _ISME_ with the first author _Stevens_ that was published in _2014_ the file would be called.
 `2015-09-10-isme-stevens-2014.md`
 2. Fill in the header information for your post.
   - Change the Title
@@ -49,7 +49,7 @@ Example for blog post on Sept. 10th, 2015 reviewing an article in __ISME__ with 
 6. Push to your fork(origin) and make a pull request to the upstream fork.
 
 ### Checking your work in the browser
-1. From the root of the repo serve the site (so you can check what your post looks like)
+1. From the root of the repo serve the site.
 ```
 bundle exec jekyll serve
 ```
