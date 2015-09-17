@@ -5,7 +5,6 @@ date: 2015-09-10 10:11
 comments: true
 author: "Sarah Stevens"
 tags:
-- first post
 - setup
 ---
 
