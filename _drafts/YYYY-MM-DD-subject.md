@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "INSERT TITLE HERE"
+author: "YOUR NAME HERE"
 date: 2015-09-10 16:25
 comments: true
 tags:
