@@ -6,7 +6,7 @@ date: 2015-09-21 8:30
 comments: true
 tags:
 - metagenomics
-- low-abundance taxa
+- low-abundance
 - assembly
 ---
 
