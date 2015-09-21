@@ -2,7 +2,7 @@
 layout: post
 title: "Detecting low-abundance bacterial strains in metagenomic datasets"
 author: "Sarah"
-date: 2015-09-21
+date: 2015-09-21 8:30
 comments: true
 tags:
 - metagenomics
