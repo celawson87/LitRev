@@ -10,6 +10,6 @@ tags:
 - assembly
 ---
 
-doi:10.1038/nbt.3329
+[doi:10.1038/nbt.3329](http://www.nature.com/nbt/journal/vaop/ncurrent/full/nbt.3329.html)
 
 This looks like an interesting article that might be useful for metagenomic assembly.
