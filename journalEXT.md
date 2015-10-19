@@ -1,4 +1,3 @@
-
 |Journal | Abbreviation|
 |---|---|
 |International Society for Microbial Ecology Journal|ismej|
