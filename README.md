@@ -17,7 +17,7 @@ McMahon Lab Literature Review Blog
 ```
 cd LitRev
 ```
-4. Install bundler.  
+4. Install bundler.  You may have to use 'sudo'.
 ```
 gem install bundler
 ```
@@ -27,7 +27,7 @@ git remote add upstream https://github.com/McMahonLab/LitRev
 ```
 
 ##  How to create a blog post
-**Always update your fork and local copy first** - pull (or Fetch+merge) from upstream and then push to origin.
+**Always update your fork and local copy first** - pull (or Fetch+merge) from upstream (gh-pages branch) and then push to origin.
 
 ### Create your own post
 1. Copy the template from the `_drafts` to `_posts`.  Rename the file to be relevant to the article you are reviewing.
