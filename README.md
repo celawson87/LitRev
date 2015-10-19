@@ -20,6 +20,7 @@ cd LitRev
 4. Install bundler.  You may have to use 'sudo'.
 ```
 gem install bundler
+bundle install
 ```
 5. (At some point) Add the upstream remote.
 ```
