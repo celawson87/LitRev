@@ -36,6 +36,7 @@ Example:
 cp _drafts/YYYY-MM-DD-subject.md _posts/<YYYY-MM-DD-topic>.md
 ```
 Replace `<YYYY-MM-DD-topic>` with the current date and topic (should include the journal abbreviation, first author, and year).
+Journal abbreviations can be found [here](journalEXT.md)
 Example for blog post on Sept. 10th, 2015 reviewing an article in _ISME_ with the first author _Stevens_ that was published in _2014_ the file would be called.
 `2015-09-10-isme-stevens-2014.md`
 2. Fill in the header information for your post.
