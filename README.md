@@ -39,11 +39,11 @@ cp _drafts/YYYY-MM-DD-subject.md _posts/<YYYY-MM-DD-topic>.md
 Replace `<YYYY-MM-DD-topic>` with the current date and topic (should include the journal abbreviation, first author, and year).  
 Journal abbreviations can be found [here](journalEXT.md)  
 Example for blog post on Sept. 10th, 2015 reviewing an article in _ISME_ with the first author _Stevens_ that was published in _2014_ the file would be called.
-`2015-09-10-isme-stevens-2014.md`
+`2015-09-10-ismej-stevens-2014.md`
 2. Fill in the header information for your post.
   - Change the Title
   - Update the date to the current date
-  - Replace 'tag1' and 'tag2' with tags related to your post.  Feel free to add additional tags as well
+  - Replace 'tag1' and 'tag2' with tags related to your post (one word only or use an \_ to replace the space).  Look through old tags to see if they apply and feel free to add additional tags.
 3. Write your post, replacing the 'POST GOES HERE' line.
     For help with markdown see [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 4. Check your work in the browser. (Optional, see below for instructions)
