@@ -1,5 +1,5 @@
-
-|Journal|Abbreviation|
+|Journal | Abbreviation|
+|---|---|
 |International Society for Microbial Ecology Journal|ismej|
 |Environmental Microbiology|em|
 |Applied & Envrionmental Microbiology|asm|
@@ -9,6 +9,3 @@
 |Nature Communications|ncomms|
 |Science|sci|
 |Moleccular Systems Biology|msb|
-
-
-
