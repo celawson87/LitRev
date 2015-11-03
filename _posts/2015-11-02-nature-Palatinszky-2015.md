@@ -2,7 +2,7 @@
 layout: post
 title: "Cyanate as an energy source for nitrifiers"
 author: "Christopher E. Lawson"
-date: 2015-11-02 20:34
+date: 2015-11-02 20:40
 comments: true
 tags:
 - metagenomics
